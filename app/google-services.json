@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "339197194114",
+    "project_id": "third-9e857",
+    "storage_bucket": "third-9e857.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339197194114:android:5cfd746a67b66c4a42e99b",
+        "android_client_info": {
+          "package_name": "com.example.third"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJt6coBAQVM8CYPNXF76lQby2pbU3geQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
